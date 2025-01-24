@@ -8,7 +8,7 @@ function search() {
 
     switch (codePalete) {
         case "805":
-        case "812":
+        case "821":
         case "824":
         case "2044":
         case "2503":
